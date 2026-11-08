@@ -1,0 +1,82 @@
+{
+  "version": "v2",
+  "date": "2026-11-08",
+  "note": "Content manifest; manifest.json and validation.json excluded to avoid self-reference.",
+  "files": [
+    {
+      "local_path": ".gitattributes",
+      "bytes": 66,
+      "sha256": "d619fa796903c46666baaa687d2ce3747da54f66564da3dc9f2a534600d659e9"
+    },
+    {
+      "local_path": ".gitignore",
+      "bytes": 52,
+      "sha256": "d00b8f7664d2c78a5b6c87a681699864298e79975918fbadacf1e398a53677a3"
+    },
+    {
+      "local_path": "docs/取材与使用说明.md",
+      "bytes": 2812,
+      "sha256": "43950a3c81b9663be4807f685604098aeeae02aff54f22e59217e10fa7e04267"
+    },
+    {
+      "local_path": "persona/archive/莉音_mem_chat_基础人设_v1.txt",
+      "bytes": 11138,
+      "sha256": "bf623c0006cf5b2743454d8fb0c95057549c734650fd0e8c33a9d0fef3596443"
+    },
+    {
+      "local_path": "persona/mem_chat_ready/persona_rag/rio_character_facts.md",
+      "bytes": 3903,
+      "sha256": "7366afc957ef13ee0fb87d5ddc9d68980159f48e4f5bb1f3900b80119d24ca42"
+    },
+    {
+      "local_path": "persona/mem_chat_ready/personas/personas.txt",
+      "bytes": 16442,
+      "sha256": "c7f99fa0002d74ee72f7af5c17cfa5d6f82021114386a874413a0773227aa105"
+    },
+    {
+      "local_path": "persona/mem_chat_ready/personas/state_rules.txt",
+      "bytes": 3194,
+      "sha256": "9335f7fb0722bd290636d5e158047457824f0c51392e50b5c5803ee9aa95f88b"
+    },
+    {
+      "local_path": "persona/mem_chat_ready/README.md",
+      "bytes": 1352,
+      "sha256": "7eefa1c4e01790d37e4f04ef050318b0c924d28954f107592dc1cc9277638160"
+    },
+    {
+      "local_path": "persona/supplements/莉音_二创梗与反应.md",
+      "bytes": 7925,
+      "sha256": "94412cb89c318c124416fc84a670df4c8f20596226e638aa26014702d50e9802"
+    },
+    {
+      "local_path": "persona/supplements/莉音_口吻与日常素材.md",
+      "bytes": 3659,
+      "sha256": "10dd12053c10b8d23b0d8b8329172e470efff8b3b27ed926e899a8dc405dbbc6"
+    },
+    {
+      "local_path": "persona/supplements/莉音_核心经历与人物关系.md",
+      "bytes": 6521,
+      "sha256": "ee971c4506d3b46d5a98799a375d5245b7fa0a179e1019bf357e92bf6a9423ef"
+    },
+    {
+      "local_path": "persona/supplements/莉音_记忆关系与模块接话.md",
+      "bytes": 3097,
+      "sha256": "c9d2924ab7fc3b8df4747207d5e810102134112887b13ed664f7ce693fc933fc"
+    },
+    {
+      "local_path": "persona/莉音_mem_chat_基础人设_v2.txt",
+      "bytes": 16442,
+      "sha256": "c7f99fa0002d74ee72f7af5c17cfa5d6f82021114386a874413a0773227aa105"
+    },
+    {
+      "local_path": "README.md",
+      "bytes": 2980,
+      "sha256": "3742b367771112acc775abfe3bba500ecef0a4048e5ea24a07750bd58f84c3cb"
+    },
+    {
+      "local_path": "references/sources.json",
+      "bytes": 3769,
+      "sha256": "c20a9ea7c8802ecf8d63f4dc1ac74a2397aeb6c0bcf21d503bdf2440572f3513"
+    }
+  ]
+}

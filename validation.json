@@ -1,0 +1,19 @@
+{
+  "version": "v2",
+  "date": "2026-11-08",
+  "checks": {
+    "v2_matches_original": true,
+    "mem_chat_persona_matches_v2": true,
+    "v1_archive_matches_original": true,
+    "twenty_two_example_pairs": true,
+    "ten_state_keys": true,
+    "twelve_fact_blocks": true,
+    "relative_markdown_links_resolve": true,
+    "no_private_paths_or_credentials_detected": true,
+    "no_raw_data_or_third_party_packages": true,
+    "manifest_hashes_match": true
+  },
+  "scope": "Repository content and integrity only; no live bot or long-term chat test.",
+  "included_rag_blocks": 12,
+  "local_full_export_blocks_not_published": 199
+}

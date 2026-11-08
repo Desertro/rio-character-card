@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-08",
+  "game_data": {
+    "repository": "electricgoat/ba-data",
+    "snapshots": {
+      "jp": {
+        "commit": "3428d2a0943bdfe7d6453adfcb06676509972b02",
+        "commit_date": "2026-10-28T12:03:02Z"
+      },
+      "global": {
+        "commit": "c3d22e432994371942c599edce56668706e35ccd",
+        "commit_date": "2026-10-27T02:27:38Z"
+      }
+    },
+    "note": "本仓库保留作者摘要与来源定位；原始游戏数据与完整台词归档另存本地项目，不包含在此仓库。"
+  },
+  "primary_cards": [
+    {
+      "title": "调月莉音",
+      "author": "openhanako-ba-agents / Arrokoth446",
+      "url": "https://github.com/Arrokoth446/openhanako-ba-agents",
+      "commit": "b5acf1145df6d5726ddc7d4a14ec8b58a6dbaf75",
+      "retrieval_status": "complete_package_archived_in_original_project",
+      "included_in_this_repository": false
+    },
+    {
+      "title": "Rio Tsukatsuki",
+      "author": "Yugio",
+      "url": "https://moescape.ai/tavern/characters/ee007845-4bc0-4b86-8482-de7634a57967",
+      "retrieval_status": "public_description_only_full_definition_unconfirmed",
+      "included_in_this_repository": false
+    }
+  ],
+  "backup_cards": [
+    {
+      "title": "Tsukatsuki Rio",
+      "author": "Shige",
+      "url": "https://yodayo.com/de/tavern/characters/960ad198-f919-4787-b96d-9e5b9fd77fec",
+      "retrieval_status": "public_description_only"
+    },
+    {
+      "title": "Rio Tsukatsuki | Secretary",
+      "author": "Jl02800277847",
+      "url": "https://datacat.run/characters/recent/janitor/c864260d-3eb1-451d-8009-750047cf7414",
+      "retrieval_status": "index_only_detail_http_403"
+    },
+    {
+      "title": "Tsukatsuki Rio / friend AU",
+      "author": "rinnotman (early search lead, not fully verified)",
+      "url": "https://spicychat.ai/chat/1675e690-ca48-4c6d-aa95-a0717dc844bf",
+      "retrieval_status": "loading_shell_only_not_used"
+    }
+  ],
+  "meme_sources": [
+    {
+      "key": "udn_height",
+      "title": "更愛妳了！網友考察《蔚藍檔案》調月莉央身高183公分 和老師有身高差超讚 | 新聞資訊 | udn遊戲角落",
+      "url": "https://game.udn.com/game/story/122089/7703648",
+      "publication_date": "2024-01-12",
+      "checked_date": "2026-11-08",
+      "note": "页面已在原始本地项目核对；本仓库仅列出处，不镜像网页。"
+    },
+    {
+      "key": "udn_sewer",
+      "title": "「哇幹」是什麼？《蔚藍檔案》調月莉央國際服即將登場 狼師準備通水溝 | 新聞資訊 | udn遊戲角落",
+      "url": "https://game.udn.com/game/story/122089/8871588",
+      "publication_date": "2025-07-14",
+      "checked_date": "2026-11-08",
+      "note": "页面已在原始本地项目核对；本仓库仅列出处，不镜像网页。"
+    },
+    {
+      "key": "pixivision_rio",
+      "title": "《蔚蓝档案》调月莉音同人作品特辑 -",
+      "url": "https://www.pixivision.net/zh/a/10521",
+      "publication_date": "2025-02-18",
+      "checked_date": "2026-11-08",
+      "note": "页面已在原始本地项目核对；本仓库仅列出处，不镜像网页。"
+    },
+    {
+      "key": "famitsu_release",
+      "title": "【ブルアカ】リオが1月27日に実装、声はLynn。ネル（制服）と同じく4周年記念募集でピックアップ。パヴァーヌ編2章や最終編にて活躍し、多くの先生が待ち焦がれた生徒【ブルーアーカイブ】 | ゲーム・エンタメ最新情報のファミ通.com",
+      "url": "https://www.famitsu.com/article/202501/31003?page=1",
+      "publication_date": "2025-01-19",
+      "checked_date": "2026-11-08",
+      "note": "页面已在原始本地项目核对；本仓库仅列出处，不镜像网页。"
+    }
+  ]
+}
